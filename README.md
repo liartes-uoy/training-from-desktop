@@ -16,3 +16,4 @@ Here's our todo:
 
 \[x] Fix this typo 
 
+\[x] Add a description
