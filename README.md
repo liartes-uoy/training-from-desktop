@@ -14,5 +14,5 @@ Here's our todo:
 
 \[x] Make our first repository
 
-\[ ] Fix this tpyo 
+\[x] Fix this typo 
 
