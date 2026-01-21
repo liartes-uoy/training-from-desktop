@@ -2,7 +2,7 @@ training
 
 
 
-\# Learning Git
+# Learning Git
 
 
 
@@ -10,10 +10,10 @@ Here's our todo:
 
 
 
-\[x] Create a readme file
+- [x] Create a readme file
 
-\[x] Make our first repository
+- [x] Make our first repository
 
-\[x] Fix this typo 
+- [x] Fix this typo 
 
-\[x] Add a description
+- [x] Add a description
